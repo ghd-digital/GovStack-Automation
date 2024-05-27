@@ -1,0 +1,8 @@
+org\govstack\framework\ConfigurationManager.class
+org\govstack\stepdefinition\Step2.class
+org\govstack\stepdefinition\Hooks.class
+org\govstack\pom\CreateNewsPage.class
+org\govstack\framework\TestData.class
+org\govstack\pom\ContentPage.class
+org\govstack\WebDriver\WebDriverManager.class
+org\govstack\stepdefinition\StepDefinitions.class

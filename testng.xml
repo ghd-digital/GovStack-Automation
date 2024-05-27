@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.govstack.listners.TestNGListners"/>
+    </listeners>
+    <parameter name="cucumber.filter.tags" value="@RG_NW_2.1_RG_NW_2.2"/>
+    <test name="GovStack Automation" preserve-order="true">
+        <classes>
+            <class name="org.govstack.TestRunner.TestRunner"/>
+        </classes>
+    </test>
+</suite>

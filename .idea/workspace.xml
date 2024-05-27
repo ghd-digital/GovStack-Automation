@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e022b290-1d9a-4e4c-82ae-185c56ccf971" name="Changes" comment="Fixed issues">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/WebDriver/WebDriverCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/WebDriver/WebDriverCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/WebDriver/WebDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/WebDriver/WebDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/framework/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/framework/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/listners/TestNGListners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/listners/TestNGListners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/locators/ContentMainLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/locators/InitElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/locators/LoginLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/locators/NewsLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/locators/NewsLocators_FrontEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/locators/NewsLocators_FrontEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/locators/UpdatePOCLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/locators/UpdatePOCLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/pages/UpdatePOCPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/pages/UpdatePOCPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/pages/UpdatePost_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/pom/news/pages/UpdatePost_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/pages/ContentMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/pom/pages/NewsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/stepdefinition/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/stepdefinition/StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/govstack/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/govstack/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ConfigProperty.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ConfigProperty.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/TestCases/NewsTestCases.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/TestCases/NewsTestCases.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CucumberReport/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/CucumberReport/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ConfigProperty.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConfigProperty.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestCases/NewsTestCases.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestCases/NewsTestCases.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestData/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestData/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestData/~$TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestData/~$TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/WebDriver/WebDriverCapabilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/WebDriver/WebDriverCapabilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/WebDriver/WebDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/WebDriver/WebDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/framework/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/framework/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/listners/TestNGListners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/listners/TestNGListners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/locators/ContentMainLocators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/locators/InitElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/locators/LoginLocators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/locators/NewsLocators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/pages/ContentMainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/pom/pages/NewsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/stepdefinition/StepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/stepdefinition/StepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/govstack/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/govstack/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/GovStack Automation.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/GovStack Automation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/GovStack Automation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/GovStack Automation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-org.govstack.TestRunner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-org.govstack.TestRunner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="false" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gEhsKBgCBfYyqFYKdbdVUP5wk2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CommonMethods.executor": "Run",
+    "Application.ExtentReport.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.NewsPage.executor": "Run",
+    "Application.TestData.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.sampleClass.executor": "Run",
+    "Cucumber Java.Scenario: Create a news and publish.executor": "Run",
+    "Cucumber Java.Scenario: Verify News Widget is available and the following options are available and editable on the News Widget Setting.executor": "Run",
+    "Maven.Govstack-UI-Automation [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/GovStack/GovStack_Automation/testng.xml.executor": "Run",
+    "TestNG.ExtentReport.executor": "Run",
+    "TestNG.ExtentReport.testing.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/GovStack/GovStack_Automation/src/test/java",
+    "last_opened_file_path": "C:/Users/sjeldu/OneDrive - GHD/Documents/Govstack-master/Govstack-master",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.govstack.pom.news.pages" />
+      <recent name="org.govstack.pom.news.locators" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/GovStack/GovStack_Automation/testng.xml">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.govstack.practice.MainClass" />
+      <module name="Govstack-UI-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.govstack.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.govstack.practice.practice" />
+      <module name="Govstack-UI-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.govstack.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sampleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.govstack.practice.sampleClass" />
+      <module name="Govstack-UI-Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.govstack.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify News Widget is available and the following options are available and editable on the News Widget Setting" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/TestCases/NewsTestCases.feature" />
+      <option name="GLUE" value="org.govstack.stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Govstack-UI-Automation" />
+      <option name="NAME_FILTER" value="^Verify News Widget is available and the following options are available and editable on the News Widget Setting$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify News Widget is available and the following options are available and editable on the News Widget Setting$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify News Widget is available and the following options are available and editable on the News Widget Setting" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/GovStack/GovStack_Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Govstack-UI-Automation" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.sampleClass" />
+      <item itemvalue="Application.practice" />
+      <item itemvalue="Cucumber Java.Scenario: Verify News Widget is available and the following options are available and editable on the News Widget Setting" />
+      <item itemvalue="TestNG.D:/GovStack/GovStack_Automation/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/GovStack/GovStack_Automation/testng.xml" />
+        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.sampleClass" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Cucumber Java.Scenario: Verify News Widget is available and the following options are available and editable on the News Widget Setting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e022b290-1d9a-4e4c-82ae-185c56ccf971" name="Changes" comment="" />
+      <created>1715268851509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715268851509</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixed issues">
+      <option name="closed" value="true" />
+      <created>1715320523029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715320523029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed issues" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/govstack/TestRunner/TestRunner.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/govstack/TestRunner/TestRunner.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
